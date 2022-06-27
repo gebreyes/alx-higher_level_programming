@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-str = "Python Programming"
+str = "Python"
 print(3 * str)
 print(str[:9])
