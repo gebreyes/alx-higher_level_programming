@@ -1,5 +1,5 @@
+#!/usr/bin/python3
 import random
-from unicodedata import decimal
 number = random.randint(-10000, 10000)
 num_str = repr(number)
 last = int(num_str[-1])
