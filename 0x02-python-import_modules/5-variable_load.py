@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
-
 if __name__ == "__main__":
-    """Displaying the value of a from variable_load_5.py"""
+    """Print the value of variable a from variable_load_5."""
     from variable_load_5 import a
 
-    priint(a)
+    print(a)
