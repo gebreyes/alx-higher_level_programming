@@ -3,6 +3,6 @@
 def no_c(my_string):
     for x in my_string:
         if x == 'c' or x == 'C':
-            print("", end="")
+            return 'None'
         else:
-            print(x, end="")
+            return x
