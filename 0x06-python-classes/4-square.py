@@ -3,9 +3,6 @@
 """Define a class Square."""
 
 
-from curses.ascii import isdigit
-
-
 class Square:
     """Represent a square."""
 
